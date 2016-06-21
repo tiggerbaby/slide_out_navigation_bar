@@ -3,7 +3,7 @@
 	z-index: 0;
 }
 
-<<<<<<< HEAD
+
 .toggle{
 	position: fixed;
 	top: 20px;
@@ -14,8 +14,7 @@
     color: black;
 }
 
-=======
->>>>>>> 7fed66c13a5f30f7b0367404f459b6b0cd00b4f4
+
 .sidebar{
 	position: fixed;
     top: 0px;
@@ -27,21 +26,19 @@
 	background-color: #333;
 	ul{
 	list-style: none;
-<<<<<<< HEAD
 	margin-left: -10px;
 	li{
 		color: rgba(255,255,255,.8);
 		margin-bottom: 10px;
 		-webkit-font-smoothing: antialiased;
 		cursor: pointer;
-=======
 	li{
 		color: rgba(255,255,255,.8);
->>>>>>> 7fed66c13a5f30f7b0367404f459b6b0cd00b4f4
 		&:hover{
 		color:rgba(255,255,255,1);
 	  }
 	  }	
 	}
+  }
 }
 
